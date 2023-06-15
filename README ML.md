@@ -5,8 +5,6 @@ AnimalScope is an animal recognition application which used Convolutional Neural
 
 The program applies Transfer Learning to this existing model and re-trains it to classify a new set of images. We use this model to classify twenty image data sets and returns a output contains the name, characteristics, and facts about them.
 
-
-## 1. model_ssd.ipynb
 ### A. Prepare the dataset
 1. Download the dataset as a zip from `https://drive.google.com/drive/folders/1yY3oPQJG7JYN4r24czmg2RKdkilAaVZR?usp=sharing` 
 2. Unzip downloaded zip file
