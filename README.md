@@ -1,4 +1,4 @@
-![Landscape](images/logo.jpeg)
+![Landscape](AnimalScope.jpeg)
 
 <h1 align="center">ANIMAL SCOPE</h1>
 
