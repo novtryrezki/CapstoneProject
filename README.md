@@ -1,4 +1,4 @@
-![Landscape](AnimalScope.jpeg)
+<img src="AnimalScope.jpeg" alt="Landscape" width="300" height="auto">
 
 <h1 align="center">ANIMAL SCOPE</h1>
 
