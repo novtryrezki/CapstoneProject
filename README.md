@@ -1,4 +1,7 @@
-<img src="AnimalScope.jpeg" alt="Landscape" width="300" height="auto">
+<p align="center">
+  <img src="AnimalScope.jpeg" alt="Landscape" width="300">
+</p>
+
 
 <h1 align="center">ANIMAL SCOPE</h1>
 
