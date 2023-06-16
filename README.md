@@ -20,7 +20,7 @@ TEAM MEMBER :
 TEAM ROLE ;
 * Build Machine Learning model and train model (M151DSY1741 - Novtry Rezki Simamora, M151DSY2327 - Yessica Maretha Simanjuntak) 
 * Create database and Deploy API (C058DSY2890 - Marisa Alfia Suciati, C058DSY2891 - Ayu Istikomah)
-* Android apss development (A037DSY3416 - Dhiah Ayu Prameswari,  A037DSY3418 - Anglin Betseba Lumbantoruan)
+* Android app development (A037DSY3416 - Dhiah Ayu Prameswari,  A037DSY3418 - Anglin Betseba Lumbantoruan)
 
 # CAPSTONE PROJECT LINKS
 Dataset: 
