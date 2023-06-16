@@ -17,23 +17,23 @@ As the framework we use express.js because it has direct support from the Google
 
 <br>
 
-#### Clone this repository
+### Clone this repository
 
 https://github.com/novtryrezki/CapstoneProject.git
 
-#### Initialize the JavaScript project (package.json)
+#### a. Initialize the JavaScript project (package.json)
 
 npm init
 
-#### Installed express js as a framework
+#### b. Installed express js as a framework
 
 npm install express
 
-#### Install nodemon to run the application automatically
+#### c. Install nodemon to run the application automatically
 
 npm install nodemon
 
-#### Run the API server
+#### d. Run the API server
 
 npm run start
 
@@ -57,11 +57,11 @@ cd app-deploy
 
 #### 6. Create an .env file and enter the following code to connect to the Mysql database
 
-PORT = 4000
-DB_HOST = 34.128.80.191
-DB_USERNAME = root
-DB_PASSWORD = 12345678
-DB_NAME = animal_recognition
+PORT = xxxx
+DB_HOST = xx.xxx.xx.xxx
+DB_USERNAME = xxxx
+DB_PASSWORD = xxxx
+DB_NAME = xxxxxx
 
 #### 7. Then create an app.yaml file and enter the following script
 
