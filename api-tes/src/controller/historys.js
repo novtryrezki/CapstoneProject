@@ -1,11 +1,11 @@
-const HistorysModel = require("../models/historys"); //memanggil file historys pada folder models
+const HistorysModel = require("../models/historys");
 
 const createNewHistory = async (req, res) => {
   const { body } = req;
 
   if (!body.nama_hewan || !body.desk_hewan) {
     return res.status(400).json({
-      message: "Data yang anda kirimkan salah",
+      message: "Anda mengirimkan data yang salah",
       data: null,
     });
   }
@@ -13,7 +13,7 @@ const createNewHistory = async (req, res) => {
   try {
     await HistorysModel.createNewHistory(body);
     res.status(201).json({
-      message: "Membuat history baru",
+      message: "CREATE new history success",
       data: body,
     });
   } catch (error) {

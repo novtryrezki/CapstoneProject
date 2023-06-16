@@ -1,4 +1,4 @@
-const OutputsModel = require("../models/outputs"); //memanggil file outputs pada folder models
+const OutputsModel = require("../models/outputs");
 
 const getOutputs = async (req, res) => {
   const { id } = req.params;
@@ -7,7 +7,7 @@ const getOutputs = async (req, res) => {
     const [data] = await OutputsModel.getOutputs(id);
 
     res.json({
-      message: "Memanggil data hewan berhasil",
+      message: "GET all outputs success",
       data: data,
     });
   } catch (error) {

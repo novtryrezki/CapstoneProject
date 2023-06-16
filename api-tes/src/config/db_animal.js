@@ -1,4 +1,4 @@
-const mysql = require("mysql2"); //melakukan impor mysq2
+const mysql = require("mysql2");
 
 const dbpool = mysql.createPool({
   host: process.env.DB_HOST,
