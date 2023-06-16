@@ -14,8 +14,8 @@ TEAM MEMBER :
 * M151DSY2327 - Yessica Maretha Simanjuntak (Machine Learning)
 * C058DSY2890 - Marisa Alfia Suciati (Cloud Computing)
 * C058DSY2891 - Ayu Istikomah (Cloud Computing)
-* A037DSY3416 - Dhiah Ayu Prameswari (Machine Development)
-* A037DSY3418 - Anglin Betseba Lumbantoruan (Machine Development)
+* A037DSY3416 - Dhiah Ayu Prameswari (Mobile Development)
+* A037DSY3418 - Anglin Betseba Lumbantoruan (Mobile Development)
 
 TEAM ROLE ;
 * Build Machine Learning model and train model (M151DSY1741 - Novtry Rezki Simamora, M151DSY2327 - Yessica Maretha Simanjuntak) 
